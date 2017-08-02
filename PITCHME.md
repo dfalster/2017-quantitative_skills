@@ -34,7 +34,7 @@
 - Computer scientist
 - Data Scientist
 
-<span style="font-size:0.6em; color:#e49436"> (What are your main roles?) </span>|
+<span style="font-size:0.6em; color:#e49436"> (What are your main roles?) </span>
 
 ---
 
@@ -56,16 +56,16 @@
 ![image](assets/GenBank.jpg)
 
 ---
-![image](assets/Sensors.png)
+![image](assets/MOL.png)
 
 ---
-![image](assets/MOL.png)
+![image](assets/Sensors.png)
 
 ---
 
 ### Every analysis is new and different
 
-- More data
+- More data from diverse sources
 - New statistics
 - Science getting more complex
 
@@ -94,7 +94,7 @@ inference, tests </span>
 
 ### When are good times to learn new skills?
 
-<span style="font-size:0.6em; color:#e49436"> (discuss) </span>
+<span style="font-size:0.6em; color:#e49436"> (what do you think?) </span>
 
 ---
 
@@ -159,12 +159,12 @@ inference, tests </span>
 
 ### These strategies make better code
 
-1. [Rubber duck debugging](https://rubberduckdebugging.com/)
-2. [A second set of eyes (code review)](https://en.wikipedia.org/wiki/Code_review)
-3. [Minimal working example (MWE)](https://en.wikipedia.org/wiki/Minimal_Working_Example)
-4. [Abstraction / writing functions](https://en.wikipedia.org/wiki/Abstraction)
-5. [Testing code](https://en.wikipedia.org/wiki/Unit_testing)
-6. [Refactoring (a big re-write)](https://en.wikipedia.org/wiki/Code_refactoring)
+1. [Rubber duck debugging](https://rubberduckdebugging.com/) |
+2. [A second set of eyes (code review)](https://en.wikipedia.org/wiki/Code_review) |
+3. [Minimal working example (MWE)](https://en.wikipedia.org/wiki/Minimal_Working_Example) |
+4. [Abstraction / writing functions](https://en.wikipedia.org/wiki/Abstraction) |
+5. [Testing code](https://en.wikipedia.org/wiki/Unit_testing) |
+6. [Refactoring (a big re-write)](https://en.wikipedia.org/wiki/Code_refactoring) |
 
 ---
 
@@ -176,9 +176,9 @@ Example: Machine learning vs traditional statistics
 
 ### 7. Teach
 
-* Novice:  <span style="color:grey">Is blissfully unaware  </span>
-* Intermediate / competent user:  <span style="color:grey"> Is aware of their limits </span>
-* Expert: <span style="color:grey"> Mastered technology but becomes blind </span>
+* Novice:  <span style="color:grey">unskilled, unaware of their limits  </span>
+* Competent user:  <span style="color:grey"> Skilled but aware of limits </span>
+* Expert: <span style="color:grey"> Mastered technology but blind to challenges </span>
 
 ---
 
